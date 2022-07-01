@@ -73,6 +73,7 @@ h1 {
 	background-image: url("img/bg-pattern-card.svg");
 	background-repeat: no-repeat;
 	background-size: cover;
+	padding-top: 140px;
 }
 
 .profile-card__holder img {
