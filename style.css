@@ -2,9 +2,9 @@
 body {
 	background-color: var(--bg-primary);
 	background-image: url("img/bg-pattern-top.svg"), url("img/bg-pattern-bottom.svg");
-	background-position: left -25vh top -50vh, right -25vh bottom -50vh;
+    background-position: left -5vw top -60vh, right -5vw bottom -60vh;
     background-repeat: no-repeat;
-    background-size: 100vh;
+    background-size: auto;
     font-family: var(--main-font);
 }
 
