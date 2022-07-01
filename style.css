@@ -65,7 +65,7 @@ h1, .stats__header {
 	text-align: center;
 }
 
-.profile-card__image {
+.profile-card__bg {
 	position: absolute;
 	background-image: url("img/bg-pattern-card.svg");
 	background-repeat: no-repeat;
